@@ -130,11 +130,6 @@ This application is built following the principles of **Clean Architecture** wit
 
 ---
 
-## Screenshots
-
-*(Replace this section with screenshots of the app in action)*
-
----
 
 ## Author
 
